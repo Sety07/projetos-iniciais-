@@ -1,2 +1,3 @@
 arquivo 01
 Arquivo editado pelo git.
+versão 2
